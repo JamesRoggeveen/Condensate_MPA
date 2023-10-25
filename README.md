@@ -1,6 +1,6 @@
 # A calibration-free model of micropipette aspiration for measuring properties of protein condensates
 
-A calibration-free model of micropipette aspiration for measuring properties of protein condensates, Biophysical Journal, <em>in press</em>.
+<a href="https://www.sciencedirect.com/science/article/pii/S0006349523006215?dgcid=coauthor">A calibration-free model of micropipette aspiration for measuring properties of protein condensates</a>, Biophysical Journal, 2023.
 
 Authors:
 <ul>
